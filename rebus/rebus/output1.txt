@@ -1,0 +1,6 @@
+KOT + KTO = TOK
+
+459 + 495 = 954
+
+There are no other solutions
+runtime = 0.003

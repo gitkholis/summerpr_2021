@@ -1,0 +1,6 @@
+MATH + MATH = HABIT
+
+7521 + 7521 = 15042
+
+There are no other solutions
+runtime = 1.303

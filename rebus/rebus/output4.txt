@@ -1,0 +1,6 @@
+AB + BC = BCB
+
+91 + 10 = 101
+
+There are no other solutions
+runtime = 0.006

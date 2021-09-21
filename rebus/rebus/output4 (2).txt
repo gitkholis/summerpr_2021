@@ -1,0 +1,4 @@
+CQ + CQ = CBCQ
+
+There are no solution
+runtime = 0.005
